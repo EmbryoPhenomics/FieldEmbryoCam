@@ -1,0 +1,18 @@
+{
+"device_id":"FieldEP_1",
+"thingsboard":"pp",
+"acq_delay": 5,
+"acq_duration": 20,
+"acq_frequency": 1800,
+"acq_framerate": 15,
+"acq_x": 1080,
+"acq_y": 720,
+"acq_led_intensity": 80,
+"acq_crop": "False",
+"acq_path": "/home/pi/Desktop/imseq/",
+"env_sensors": ["temperature", "pressure"],
+"gsm_active": "True",
+"gsm_image": "True",
+"gsm_sensor": "True",
+"gsm_ept": "True"
+}
